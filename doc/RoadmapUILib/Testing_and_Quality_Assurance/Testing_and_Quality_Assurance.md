@@ -12,6 +12,6 @@
 - [Визуальные тесты: Playwright или Chromatic](./VisualTest/visualTest.md)
 
 ### 5.2 Качество кода
-- ESLint (включая Tailwind и A11y правила)
-- Prettier
+- [ESLint (включая Tailwind и A11y правила)](./ESLint/EsLint.md)
+- [Prettier](./prettier/prettier.md)
 - Stylelint (при необходимости)
