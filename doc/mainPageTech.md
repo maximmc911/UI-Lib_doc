@@ -37,3 +37,7 @@
 ---
 
 ## 🔁 [Этап 8: Поддержка и развитие](./RoadmapUILib/Support_and_Development/Support_and_Development.md)
+
+---
+
+## 🔁 [Этап 9: Прочее/полезная информация](./RoadmapUILib/miscellaneous/Miscellaneous.md)

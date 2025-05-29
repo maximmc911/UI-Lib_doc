@@ -15,5 +15,5 @@
   - [Интерактивные playground’ы](./playground/playground.md)
 
 ### 7.2 Showcase / Playground
-- Реальные примеры использования
+- [Реальные примеры использования](./playground/playground2.md)
 - Темизация и композиция
