@@ -9,10 +9,10 @@
 
 ### 7.1 Документационный сайт
 - [Next.js + Tailwind + MDX/React+Vite](./choiseDemoSite/choiseFemoSite.md)
-- Альтернатива: кастомизированный Storybook
+- [Альтернатива: кастомизированный Storybook](./ChoiseStoryBook/choiseStoryBook.md)
 - Возможности:
-  - Поиск и фильтры
-  - Интерактивные playground’ы
+  - [Поиск и фильтры](./playground/filter.md)
+  - [Интерактивные playground’ы](./playground/playground.md)
 
 ### 7.2 Showcase / Playground
 - Реальные примеры использования
