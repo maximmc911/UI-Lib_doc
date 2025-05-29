@@ -16,4 +16,4 @@
 
 ### 7.2 Showcase / Playground
 - [Реальные примеры использования](./playground/playground2.md)
-- Темизация и композиция
+- [Темизация и композиция](./Theming_Composition/Theming_Composition.md)
