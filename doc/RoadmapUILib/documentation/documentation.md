@@ -17,6 +17,8 @@
   - A11y заметки
   - Варианты кастомизации
 
+  [подробнее ...](./DocComponentExample/DocComponentExample.md)
+
 ### 4.2 Автоматизация
-- Генерация документации (Storybook MDX, JSDoc → Markdown)
-- Интерактивные примеры (например, через Sandpack)
+-[ Генерация документации (Storybook MDX, JSDoc → Markdown)](./generate/generateDoc.md)
+- [Интерактивные примеры (например, через Sandpack)](./interactiveExample/interactiveExample.md)
