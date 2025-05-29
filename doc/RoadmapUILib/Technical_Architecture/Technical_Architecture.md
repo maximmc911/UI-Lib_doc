@@ -26,7 +26,7 @@
 
 
 ### 2.2 Структура проекта
-- Подход: Monorepo или Single Package
+- [Подход: Monorepo или Single Package](./Project_Structure/Project_Structure.md)
 - Файловая структура (`src/components`, `utils`, `hooks`, и т.д.)
 - Конвенции по именованию компонентов, props, событий
 
