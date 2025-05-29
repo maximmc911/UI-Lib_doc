@@ -53,6 +53,8 @@
 - Compound components
 - Контролируемые и неконтролируемые состояния
 
+[подробнее...](./patterns/patterns.md)
+
 ### 3.3 Хуки и утилиты
 - `useToggle`, `useOutsideClick`, `useClipboard`
 - Утилиты: `cn`, `debounce`, `throttle`
