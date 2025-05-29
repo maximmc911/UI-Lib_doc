@@ -14,4 +14,4 @@
 ### 5.2 Качество кода
 - [ESLint (включая Tailwind и A11y правила)](./ESLint/EsLint.md)
 - [Prettier](./prettier/prettier.md)
-- Stylelint (при необходимости)
+- [Stylelint (при необходимости)](./Stylelint/Stylelint.md)
