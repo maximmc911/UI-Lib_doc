@@ -21,4 +21,5 @@
 
 ### 4.2 Автоматизация
 -[ Генерация документации (Storybook MDX, JSDoc → Markdown)](./generate/generateDoc.md)
-- [Интерактивные примеры (например, через Sandpack)](./interactiveExample/interactiveExample.md)
+
+-[ Интерактивные примеры (например, через Sandpack)](./interactiveExample/interactiveExample.md)

@@ -27,8 +27,8 @@
 
 ### 2.2 Структура проекта
 - [Подход: Monorepo или Single Package](./Project_Structure/Project_Structure.md)
-- Файловая структура (`src/components`, `utils`, `hooks`, и т.д.)
-- Конвенции по именованию компонентов, props, событий
+- [Файловая структура (`src/components`, `utils`, `hooks`, и т.д.)](./fileStructure/fileStructure.md)
+- [Конвенции по именованию компонентов, props, событий](./NamingConventions/NamingConventions.md)
 
 ### 2.3 Стилизация
 - Утилиты Tailwind / themes / tokens / CSS-переменные
