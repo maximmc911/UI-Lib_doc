@@ -13,5 +13,5 @@
 
 ### 6.2 Публикация
 - [Публикация в npm](./deployNpm/deployNpm.md)
-- GitHub Releases + Changelog
-- Semantic release или ручное versioning
+- [GitHub Releases + Changelog](./GitHubReleases/GitHubReleases.md)
+- [Semantic release или ручное versioning](./semantic_release/semantic_release.md)
