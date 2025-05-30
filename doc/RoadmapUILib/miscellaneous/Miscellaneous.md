@@ -8,3 +8,4 @@
 [назад](../../mainPageTech.md)
 
 
+### [feedback](./files/feedback.md)
