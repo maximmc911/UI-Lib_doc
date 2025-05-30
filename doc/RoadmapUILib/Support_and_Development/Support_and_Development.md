@@ -13,7 +13,7 @@
 
 ### 8.2 Дорожная карта
 - [Публичный roadmap](./publicRoadmap/publicRoadmap.md)
-- Таблица приоритетов задач
+- [Таблица приоритетов задач](./table/tableTascs.md)
 
 ### 8.3 CI/CD
 - GitHub Actions для линтинга, тестов и релизов
