@@ -31,13 +31,13 @@
 - [Конвенции по именованию компонентов, props, событий](./NamingConventions/NamingConventions.md)
 
 ### 2.3 Стилизация
-- Утилиты Tailwind / themes / tokens / CSS-переменные
-- Поддержка тёмной темы
-- Возможности кастомизации (className, slots, override props)
+- [Утилиты Tailwind / themes / tokens / CSS-переменные](./tailwindUtil/tailwindUtil.md)
+- [Поддержка тёмной темы](./darkTheme/darkTheme.md)
+- [Возможности кастомизации (className, slots, override props)](./CustomizationOptions/CustomizationOptions.md)
 
 ### 2.4 Адаптивность и доступность
--  подходы при создании адаптивности
-- Поддержка анимаций (Framer Motion)
-- A11y: WAI-ARIA, фокус-ловушки, клавиатурная навигация
+-  [подходы при создании адаптивности](./responsiveness/responsiveness.md)
+- [Поддержка анимаций (Framer Motion)](./framerMotion/framerMotion.md)
+- [A11y: WAI-ARIA, фокус-ловушки, клавиатурная навигация](./keyboardNavigation/keyboardNavigation.md)
 
 ---
