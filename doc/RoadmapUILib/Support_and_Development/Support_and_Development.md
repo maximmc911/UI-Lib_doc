@@ -16,5 +16,5 @@
 - [Таблица приоритетов задач](./table/tableTascs.md)
 
 ### 8.3 CI/CD
-- GitHub Actions для линтинга, тестов и релизов
-- Husky + lint-staged для pre-commit хуков
+- [GitHub Actions для линтинга, тестов и релизов](./GitHub_Actions/GitHub_Actions.md)
+- [Husky + lint-staged для pre-commit хуков](./husky/husky.md)
